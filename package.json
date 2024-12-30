@@ -1,6 +1,6 @@
 {
     "name": "bangla-lang",
-    "version": "0.1.4",
+    "version": "0.1.5",
     "description": "A programming language inspired by Bengali linguistics",
     "main": "src/cli/bangla.js",
     "bin": {

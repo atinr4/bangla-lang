@@ -1,38 +1,39 @@
 {
     "name": "bangla-lang",
-    "version": "0.1.0",
+    "version": "0.1.2",
     "description": "A programming language inspired by Bengali linguistics",
     "main": "src/cli/bangla.js",
     "bin": {
-      "bangla": "src/cli/bangla.js"
+        "bangla": "src/cli/bangla.js"
     },
     "scripts": {
-      "start": "node src/cli/bangla.js",
-      "compile": "node src/cli/bangla.js",
-      "test": "echo \"No tests specified\" && exit 0",
-      "prepublishOnly": "npm test"
+        "start": "node src/cli/bangla.js",
+        "compile": "node src/cli/bangla.js",
+        "test": "echo \"No tests specified\" && exit 0",
+        "prepublishOnly": "npm test"
     },
     "keywords": [
-      "bengali",
-      "programming-language", 
-      "compiler", 
-      "transpiler", 
-      "language"
+        "bengali",
+        "programming-language",
+        "compiler",
+        "transpiler",
+        "language"
     ],
     "author": "Atin Roy <your-email@example.com>",
     "license": "MIT",
     "repository": {
-      "type": "git",
-      "url": "https://github.com/atinr4/bangla-lang.git"
+        "type": "git",
+        "url": "https://github.com/atinr4/bangla-lang.git"
     },
     "homepage": "https://github.com/atinr4/bangla-lang#readme",
     "engines": {
-      "node": ">=14.0.0"
+        "node": ">=14.0.0"
     },
     "dependencies": {
-      "@babel/generator": "^7.20.7",
-      "@babel/parser": "^7.20.7",
-      "@babel/traverse": "^7.20.10",
-      "@babel/types": "^7.20.7"
+        "@babel/generator": "^7.20.7",
+        "@babel/parser": "^7.20.7",
+        "@babel/traverse": "^7.20.10",
+        "@babel/types": "^7.20.7",
+        "unicode-properties": "^1.3.1"
     }
-  }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "bangla-lang",
+  "version": "1.0.0",
+  "description": "A programming language inspired by Bengali",
+  "main": "src/cli/bangla.js",
+  "bin": {
+    "bangla": "src/cli/bangla.js"
+  },
+  "scripts": {
+    "compile": "node src/cli/bangla.js"
+  },
+  "keywords": [
+    "bengali",
+    "programming-language",
+    "compiler"
+  ],
+  "author": "Atin Roy",
+  "license": "MIT",
+  "directories": {
+    "example": "examples"
+  }
+}

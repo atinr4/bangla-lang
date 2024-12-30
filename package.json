@@ -23,9 +23,9 @@
     "license": "MIT",
     "repository": {
       "type": "git",
-      "url": "https://github.com/atinroy/bangla-lang.git"
+      "url": "https://github.com/atinr4/bangla-lang.git"
     },
-    "homepage": "https://github.com/atinroy/bangla-lang#readme",
+    "homepage": "https://github.com/atinr4/bangla-lang#readme",
     "engines": {
       "node": ">=14.0.0"
     },

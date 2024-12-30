@@ -24,7 +24,7 @@ npm install -g bangla-lang
 
 ### Local Installation
 ```bash
-git clone https://github.com/atinroy/bangla-lang.git
+git clone https://github.com/atinr4/bangla-lang.git
 cd bangla-lang
 npm install
 npm link

@@ -1,0 +1,18 @@
+# Dependency directories
+node_modules/
+
+# Testing and development files
+examples/
+test/
+.gitignore
+.npmignore
+
+# Logs
+*.log
+
+# macOS system files
+.DS_Store
+
+# Editor directories and files
+.vscode/
+.idea/
